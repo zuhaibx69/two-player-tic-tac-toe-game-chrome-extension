@@ -1,0 +1,19 @@
+{
+    "name": "Tic-Tac Game",
+    "version": "1.0.0",
+    "description": "Its a Custom Tic-Tac Game",
+    "manifest_version": 3,
+    "author": "Zohaib",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Latest Version Of Tic Tac Game",
+        "default_icon": {
+            "16": "./icon16.png",
+            "32": "./icon32.png",
+            "48": "./icon48.png",
+            "128": "./icon128.png"
+        }
+    }
+    
+
+}
